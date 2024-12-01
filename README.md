@@ -12,4 +12,4 @@ A sleek and modern food ordering website designed using **HTML** and **CSS**. Th
 - **CSS3** for styling and responsive design.  
 
 ## How to View the Website  
-https://sarthakgupta01.github.io/new_project/
+https://sarthakgupta01.github.io/Foodie/
